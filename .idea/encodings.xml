@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/src/com.ada/doJoin.scala" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com.ada/joinInLocal.scala" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com.file/ConstructFileIndex.scala" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com.file/FileCompressed.scala" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com.file/FileOperation.scala" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com.file/proNews.scala" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com.file/readNews.scala" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com.hm.mapFile/CSVFileUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com.hm.mapFile/mysqlConnection.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com.hm.mapFile/nameCut.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com.hm.mapFile/nameSeg.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com.hm.mapFile/readCSV.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com.hm.mapFile/test.java" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
